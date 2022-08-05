@@ -25,6 +25,6 @@
   
   ##
   
-  ![Snake animation](https://github.com/hiakizz/hiakizz/blob/main/.github/workflows/thelifesnakes.svg)
+  ![Snake animation](https://github.com/hiakizz/hiakizz/blob/main/.github/workflows/thelifesnakes.yml)
   
   </div>
