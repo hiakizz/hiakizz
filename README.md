@@ -1,8 +1,7 @@
 ## Oii
 
-- 📚Estudo no IF Sul de Minas
+- 📚Cursando informática no IF Sul de Minas
 - 🎮Jogo alguns jogos ai
-- 🔭Gosto de astronomia
 ##
 
 <div align="center">
@@ -21,7 +20,7 @@
   
   </div>
   
-  <img src="https://c.tenor.com/l03_S-DyCc8AAAAC/frog-dance.gif" width="100" height="100" />
+  <img src="https://c.tenor.com/l03_S-DyCc8AAAAC/frog-dance.gif" width="104" height="100" />
   
   ##
   
