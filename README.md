@@ -1,4 +1,4 @@
-## Oii
+## Olá!
 
 - 📚Cursando informática no IF Sul de Minas
 - 🎮Jogo alguns jogos ai
@@ -24,6 +24,6 @@
   
   ##
   
-  ![Snake animation](https://github.com/hiakizz/hiakizz/blob/main/.github/workflows/cobrinha.svg)
+ ![snake gif](https://github.com/hiakizz/hiakizz/blob/output/github-contribution-grid-snake.svg)
   
   </div>
