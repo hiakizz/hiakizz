@@ -20,7 +20,7 @@
   
   </div>
   
-  <img src="https://c.tenor.com/l03_S-DyCc8AAAAC/frog-dance.gif" width="104" height="100" />
+  <img src="https://media.tenor.com/FFT4ra-XzRkAAAAd/nose-fur.gif" width="104" height="100" />
   
   ##
   
