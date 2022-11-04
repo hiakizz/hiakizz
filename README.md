@@ -11,18 +11,8 @@
 </div>
   
   ##
-  
-  <div>
  
-  <a href="https://twitter.com/hiaki_zz" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-    <a href = "https://open.spotify.com/user/pl6v36x3f399kqirzgplz3fv0"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
- 	<a href="https://www.twitch.tv/hiaki_zz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  
-  </div>
-  
-  <img src="https://media.tenor.com/FFT4ra-XzRkAAAAd/nose-fur.gif" width="104" height="100" />
-  
-  ##
+ <img align="right" src="https://media.tenor.com/FFT4ra-XzRkAAAAd/nose-fur.gif" width="104" height="100"/>
   
  ![snake gif](https://github.com/hiakizz/hiakizz/blob/output/github-contribution-grid-snake.svg)
   
